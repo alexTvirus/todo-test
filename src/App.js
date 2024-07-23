@@ -8,8 +8,6 @@ import Task from './components/Task';
 import FormInputTask from './components/FormInputTask';
 import { Pagination, Spin } from 'antd';
 
-
-
 function App() {
 
   const [listTask, setlistTask] = useState([])
